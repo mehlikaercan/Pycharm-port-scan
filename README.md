@@ -9,7 +9,7 @@ PORT SCAN WITH PYCHARM CODE
 <br>2. To go "bin".
 <br>3. Write "bash pycharm.sh" and open the pycharm tool.
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106705846-917e9a00-65a3-11eb-95d1-a86683d4a04a.JPG)
-<br>4. Write the codes that are in the picture.
+<br>4. Write the codes that are in the pictures.
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106706909-3a79c480-65a5-11eb-9983-f64e40a49fd1.JPG)
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106707037-66954580-65a5-11eb-8bdf-9cc0b49a9aeb.JPG)
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106707178-abb97780-65a5-11eb-9638-5ed93901108f.JPG)
